@@ -50,4 +50,7 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 ### Batteries
 * [QuantumScape](https://www.quantumscape.com/)
 * [Toyota Research Institute](https://www.tri.global/)
+* [ilika](https://www.ilika.com/)
+* [Cuberg](https://cuberg.net/)
+* [Factorial](https://factorialenergy.com/)
 
