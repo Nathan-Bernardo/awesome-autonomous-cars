@@ -1,5 +1,5 @@
 # awesome-autonomous-cars
-A comprehensive list of related content on autonomous vehicles, ranging from battery technology and sensors to reinforcement learning
+A comprehensive list of related content on autonomous vehicles, ranging from battery technology and sensors to reinforcement learning.
 
 ## Contents
 * Battery technology
@@ -12,3 +12,12 @@ A comprehensive list of related content on autonomous vehicles, ranging from bat
 * AI algorithms
   * Computer vision
   * Reinforcement learning
+* Companies
+  * Autonomy 
+    * Automation system
+    * Mapping, simulation, image recognition
+    * Autonomous vehicle maker + tools 
+  * Infrastructure + connected car
+
+## Battery technology
+
