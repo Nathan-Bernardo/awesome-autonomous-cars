@@ -44,10 +44,20 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 * [Waymo](https://waymo.com/)
 * [Nuro](https://www.nuro.ai/)
 * [Zoox](https://zoox.com/)
+* [Argo.ai](https://www.argo.ai/)
+* [autoX](https://www.autox.ai/en/index.html)
 * [Faraday Future](https://www.ff.com/)
 * [Pony.ai](https://pony.ai/)
-* [Bright Way Vision (BWV)](https://www.brightwayvision.com/)
-* [Oxbotica](https://www.oxbotica.com/)
+#### Mapping, Simulation & Image Recognition 
+* [DeepMap](https://www.deepmap.ai/)
+* [TomTom](https://www.tomtom.com/en_us/)
+* [CivilMaps](https://civilmaps.com/)
+* [Carmera](https://www.carmera.com/)
+* [Understand.ai](https://understand.ai/)
+* [Mapper.ai](https://mapper.ai/)
+* [Improbable](https://www.improbable.io/)
+* [minds.ai](https://www.minds.ai/)
+* [Nomoko](https://nomoko.world/)
 
 ### Batteries
 * [QuantumScape](https://www.quantumscape.com/)
