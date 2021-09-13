@@ -46,6 +46,8 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 * [Zoox](https://zoox.com/)
 * [Faraday Future](https://www.ff.com/)
 * [Pony.ai](https://pony.ai/)
+* [Bright Way Vision (BWV)](https://www.brightwayvision.com/)
+* [Oxbotica](https://www.oxbotica.com/)
 
 ### Batteries
 * [QuantumScape](https://www.quantumscape.com/)
