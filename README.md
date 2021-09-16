@@ -48,6 +48,8 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 * [autoX](https://www.autox.ai/en/index.html)
 * [Faraday Future](https://www.ff.com/)
 * [Pony.ai](https://pony.ai/)
+* [TuSimple](https://www.tusimple.com/) [[SafetyReport](https://www.tusimple.com/wp-content/uploads/2021/03/TuSimple-Safety-Report.pdf)]
+* [Aurora](https://aurora.tech/) [[Voluntary Safety Self-Assessment](https://prismic-io.s3.amazonaws.com/aurora-dev/eca92b55-80e9-4240-93b9-61683da1f875_Aurora_VSSA_2021_Final.pdf)]
 #### Mapping, Simulation & Image Recognition 
 * [DeepMap](https://www.deepmap.ai/)
 * [TomTom](https://www.tomtom.com/en_us/)
