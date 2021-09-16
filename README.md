@@ -23,13 +23,13 @@ NOTE: This list will be updated continuosly.
   * Batteries
 
 ## Battery technology
-To make electric vehicles (EV) be in competition with combusition-based vehicles, an EV will need an energy storage that can provide fast charge time, high cycle life, safety, and a high operating temperature. While liquid lithium batteries have been the baseline for powering most devices, researchers have developed a better solution for address the issues above: solid-state batteries.
+To make electric vehicles (EV) be in competition with combusition-based vehicles, an EV will need an energy storage that can provide fast charge time, high cycle life, safety, and a high operating temperature. While liquid lithium batteries have been the baseline for powering most devices, researchers have developed a better solution to address the issues above: solid-state batteries. I curated a list of articles that explain solid-state batteries, how lithium ion batteries are simulated and model, and the standards for testing lithium-ion batteries.
 ### Solid-state batteries
 * [What is a Solid-state Battery?](https://www.samsungsdi.com/column/technology/detail/56462.html?listType=gallery#)
 * [Solid-state Battery Landscape](https://www.quantumscape.com/blog/solid-state-battery-landscape/)
 * [Designing better batteries for electric vehicles](https://news.mit.edu/2021/designing-better-batteries-electric-vehicles-0816)
 
-### Modeling and Simulating Lithium-Ion Batteries
+### Modeling and Simulating Lithium-ion Batteries
 * [Machine learning for continuous innovation in battery technologies](https://www.nature.com/articles/s41578-020-0216-y)
 * [Real-time state-of-health estimation for electric vehicle batteries: A data-driven approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261916306456)
 
