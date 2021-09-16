@@ -40,7 +40,7 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 ## Companies
 ### Autonomy 
 #### Autonomous vehicle maker + tools
-* [Cruise](https://www.getcruise.com/)[[2018 Safety Report](https://www.gm.com/content/dam/company/docs/us/en/gmcom/gmsafetyreport.pdf)]
+* [Cruise](https://www.getcruise.com/) [[2018 Safety Report](https://www.gm.com/content/dam/company/docs/us/en/gmcom/gmsafetyreport.pdf)]
 * [Waymo](https://waymo.com/) [[2020 Safety Report](https://storage.googleapis.com/waymo-uploads/files/documents/safety/2021-08-waymo-safety-report.pdf)]
 * [Nuro](https://www.nuro.ai/)
 * [Zoox](https://zoox.com/)
