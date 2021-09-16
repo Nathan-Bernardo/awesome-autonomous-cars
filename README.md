@@ -42,12 +42,12 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 #### Autonomous vehicle maker + tools
 * [Cruise](https://www.getcruise.com/) [[2018 Safety Report](https://www.gm.com/content/dam/company/docs/us/en/gmcom/gmsafetyreport.pdf)]
 * [Waymo](https://waymo.com/) [[2020 Safety Report](https://storage.googleapis.com/waymo-uploads/files/documents/safety/2021-08-waymo-safety-report.pdf)]
-* [Nuro](https://www.nuro.ai/)
-* [Zoox](https://zoox.com/)
-* [Argo.ai](https://www.argo.ai/)
+* [Nuro](https://www.nuro.ai/) [[Safety Report](https://nuro.sfo3.digitaloceanspaces.com/Nuro-VSSA-2021_Final.pdf?mtime=20210411085155&focal=none)]
+* [Zoox](https://zoox.com/) [[2021 Safety Reports](https://zoox.com/safety/)]
+* [Argo.ai](https://www.argo.ai/) [[2021 Safety Report](https://www.argo.ai/wp-content/uploads/2021/04/ArgoSafetyReport.pdf)]
 * [autoX](https://www.autox.ai/en/index.html)
 * [Faraday Future](https://www.ff.com/)
-* [Pony.ai](https://pony.ai/)
+* [Pony.ai](https://pony.ai/) [[Safety Report](https://static.cdn.xiaomazhixing.com/file/1629342785780/07b18f76-b57b-4494-b33f-5ffc99437aae)]
 * [TuSimple](https://www.tusimple.com/) [[SafetyReport](https://www.tusimple.com/wp-content/uploads/2021/03/TuSimple-Safety-Report.pdf)]
 * [Aurora](https://aurora.tech/) [[Voluntary Safety Self-Assessment](https://prismic-io.s3.amazonaws.com/aurora-dev/eca92b55-80e9-4240-93b9-61683da1f875_Aurora_VSSA_2021_Final.pdf)]
 #### Mapping, Simulation & Image Recognition 
