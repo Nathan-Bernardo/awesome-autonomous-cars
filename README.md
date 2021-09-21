@@ -30,8 +30,6 @@ So what drove Cruise, Waymo, Zoox, and other auto industries to integrate self-d
 * [SELF-DRIVING CARS: THE IMPACT ON PEOPLE WITH DISABILITIES](https://rudermanfoundation.org/wp-content/uploads/2017/08/Self-Driving-Cars-The-Impact-on-People-with-Disabilities_FINAL.pdf)
 * [Here's How Much Time Americans Waste in Traffic](https://abcnews.go.com/US/time-americans-waste-traffic/story?id=33313765)
 * [Fatality Facts 2019](https://www.iihs.org/topics/fatality-statistics/detail/state-by-state)
-* [Overview of Motor Vehicle Crashes in 2019](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813060)
-* [Distracted Driving](https://www.cdc.gov/transportationsafety/distracted_driving/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fmotorvehiclesafety%2Fdistracted_driving%2Findex.html)
 
 ## Battery technology
 To make electric vehicles (EV) be in competition with combusition-based vehicles, an EV will need an energy storage that can provide fast charge time, high cycle life, safety, and a high operating temperature. While liquid lithium batteries have been the baseline for powering most devices, researchers have developed a better solution to address the issues above: solid-state batteries. I curated a list of articles that explain solid-state batteries, how lithium ion batteries are simulated and model, and the standards for testing lithium-ion batteries.
@@ -49,7 +47,7 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 * [Battery Testing](https://www.mpoweruk.com/testing.htm)
 
 ## UI/UX Design
-While sensors, battery technology, and AI have made vehicles achieve self-driving, another component that shouldn't be overlooked is the UX/UI design. While the technology is there, the vehicle must be able to convey to the passenger that it can be trusted. During the development, it is important that developers have a user-centered design approach - an iterative design process where designers focus on the users and their needs in each phase of the desing process. Below is a list of articles and books that emphasize the UI/UX design in the auto industry.
+While sensors, battery technology, and AI have made vehicles achieve self-driving, another component that shouldn't be overlooked is the UX/UI design. While the technology is there, the vehicle must be able to convey to the passenger that it can be trusted. During the development, it is important that developers have a user-centered design approach - an iterative design process where designers focus on the users and their needs in each phase of the design process. Below is a list of articles and books that emphasize the UI/UX design in the auto industry.
 * [Tesla’s Touchscreen UI: A Case Study of Car-Dashboard User Interface](https://www.nngroup.com/articles/tesla-big-touchscreen/)
 * [Human Factors Design Guidance For Driver-Vehicle Interfaces](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812360_humanfactorsdesignguidance.pdf)
 * [WHY AUTOMOTIVE LEADERS CANNOT IGNORE THE CASE MEGATREND](https://www.infopulse.com/blog/why-automotive-leaders-cannot-ignore-the-case-megatrend/)
