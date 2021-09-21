@@ -5,6 +5,7 @@ NOTE: This list will be updated continuosly.
 
 ## Contents
 * Battery technology
+* UX/UI Design
 * Sensors
   * Lidar
   * Cameras
@@ -36,6 +37,14 @@ To make electric vehicles (EV) be in competition with combusition-based vehicles
 ### Standards for Lithium Battery Safety Testing + Protocols
 * [Top 3 Standards for Lithium Battery Safety Testing](https://metlabs.com/battery/top-3-standards-for-lithium-battery-safety-testing/)
 * [Battery Testing](https://www.mpoweruk.com/testing.htm)
+
+## UI/UX Design
+While sensors, battery technology, and AI have made vehicles achieve self-driving, another component that shouldn't be overlooked is the UX/UI design. While the technology is there, the vehicle must be able to convey to the passenger that it can be trusted. During the development, it is important that developers have a user-centered design approach - an iterative design process where designers focus on the users and their needs in each phase of the desing process. Below is a list of articles and books that emphasize the UI/UX design in the auto industry.
+* [Tesla’s Touchscreen UI: A Case Study of Car-Dashboard User Interface](https://www.nngroup.com/articles/tesla-big-touchscreen/)
+* [Human Factors Design Guidance For Driver-Vehicle Interfaces](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812360_humanfactorsdesignguidance.pdf)
+* [WHY AUTOMOTIVE LEADERS CANNOT IGNORE THE CASE MEGATREND](https://www.infopulse.com/blog/why-automotive-leaders-cannot-ignore-the-case-megatrend/)
+* [5 trends shaping the auto industry’s approach to a new normal](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/auto-industry-impact-during-coronavirus/)
+* [The Top Ten Automotive User Experiences Of The Last Decade](https://www.forbes.com/sites/stevetengler/2020/05/06/the-top-ten-automotive-user-experiences-of-the-last-decade/#d2be90a7de18)
 
 ## Companies
 ### Autonomy 
