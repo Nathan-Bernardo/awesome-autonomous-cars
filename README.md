@@ -4,6 +4,7 @@ A comprehensive list of related content on autonomous vehicles, ranging from bat
 NOTE: This list will be updated continuosly.
 
 ## Contents
+* What are the statistics?
 * Battery technology
 * UX/UI Design
 * Sensors
@@ -22,6 +23,13 @@ NOTE: This list will be updated continuosly.
     * Autonomous vehicle maker + tools 
   * Infrastructure + connected car
   * Batteries
+
+## What are the statistics?
+So what drove Cruise, Waymo, Zoox, and other auto industries to integrate self-driving capabilities to a vehicle? The answer is simple: To make driving safe for everyone; reduce the number of car accidents and traffic time; and reduce carbon emissions. Here are the statistics:
+* [Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115)
+* [SELF-DRIVING CARS: THE IMPACT ON PEOPLE WITH DISABILITIES](https://rudermanfoundation.org/wp-content/uploads/2017/08/Self-Driving-Cars-The-Impact-on-People-with-Disabilities_FINAL.pdf)
+* [Here's How Much Time Americans Waste in Traffic](https://abcnews.go.com/US/time-americans-waste-traffic/story?id=33313765)
+* [Fatality Facts 2019](https://www.iihs.org/topics/fatality-statistics/detail/state-by-state)
 
 ## Battery technology
 To make electric vehicles (EV) be in competition with combusition-based vehicles, an EV will need an energy storage that can provide fast charge time, high cycle life, safety, and a high operating temperature. While liquid lithium batteries have been the baseline for powering most devices, researchers have developed a better solution to address the issues above: solid-state batteries. I curated a list of articles that explain solid-state batteries, how lithium ion batteries are simulated and model, and the standards for testing lithium-ion batteries.
