@@ -25,7 +25,7 @@ NOTE: This list will be updated continuosly.
   * Batteries
 
 ## What are the statistics?
-So what drove Cruise, Waymo, Zoox, and other auto industries to integrate self-driving capabilities to a vehicle? The answer is simple: To make driving safe for everyone; reduce the number of car accidents and traffic time; and reduce carbon emissions. Here are the statistics:
+So what drove Cruise, Waymo, Zoox, and other auto industries to integrate self-driving capabilities in a vehicle? The answer is simple: To make driving safe for everyone; reduce the number of car accidents and traffic time; and reduce carbon emissions. Here are the statistics:
 * [Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812115)
 * [SELF-DRIVING CARS: THE IMPACT ON PEOPLE WITH DISABILITIES](https://rudermanfoundation.org/wp-content/uploads/2017/08/Self-Driving-Cars-The-Impact-on-People-with-Disabilities_FINAL.pdf)
 * [Here's How Much Time Americans Waste in Traffic](https://abcnews.go.com/US/time-americans-waste-traffic/story?id=33313765)
