@@ -1,7 +1,7 @@
 # awesome-autonomous-cars
 A comprehensive list of related content on autonomous vehicles, ranging from battery technology and sensors to reinforcement learning.
 
-NOTE: This list will be updated continuosly.
+NOTE: This list will be updated continuosly.  If there are specific resources or source code that you would like me to add, please let me know! 
 
 ## Contents
 * What are the statistics?
